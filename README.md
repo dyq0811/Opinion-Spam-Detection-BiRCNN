@@ -1,5 +1,7 @@
 # Opinion Spam Detection
 
+All details are discussed in [this paper](https://github.com/dyq0811/Opinion-Spam-Detection-BiRCNN/blob/master/final_paper.pdf).
+
 - To run the bi-directional rcnn model, navigate to the rcnn directory in the terminal and run:
 $ python3 train.py
 
